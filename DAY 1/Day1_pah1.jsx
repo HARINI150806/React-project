@@ -3,7 +3,7 @@ const Comp =()=>
 {
     return(
         <div>
-            <p>This is a functional Component</p>
+            <p>This is Team functional Component</p>
         </div>
     );
 };
